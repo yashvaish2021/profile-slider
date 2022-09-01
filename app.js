@@ -78,4 +78,3 @@ randomButton.addEventListener("click", function () {
 function getRandomUser() {
   return Math.floor(Math.random() * reviews.length);
 }
-console.log("mai chutia hun");
